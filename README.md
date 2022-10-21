@@ -1,3 +1,7 @@
-# professorgobi.github.io
-my website
-Work in progress
+*Work in Progress*  
+
+<img src="https://www.pngitem.com/pimgs/m/207-2073499_translate-platform-from-english-to-spanish-work-in.png" width="100" height="100" />
+
+Gobi Ramasamy  
+Assitant Professor in Computer Science  
+Christ University Bangalore  
